@@ -1,7 +1,49 @@
-/*
-background-grey: #F4F3F4;
-button-purple: #192592
-main-titles dark-grey: #2C303F;
-paragraph grey: #5b5e6d;
-nav grey: #5b5e6d;
-*/
+@media screen {
+  320px ;
+}
+
+body{
+  margin:0 auto;
+}
+
+.nav {
+  width:320px;
+  padding: 2px;
+  margin: 0 auto;
+}
+
+ .logo img{
+  width: 100px;
+ }
+
+.hamburger-menu {
+  width: 30px;
+  float: right;
+  
+}
+
+.headersection{
+  padding:2px;
+}
+.headersection header {
+  width:320px;
+}
+
+.headersection img {
+  width:320px;
+}
+
+.flex-container {
+  width: 320px;
+  
+}
+
+.mainsection main {
+width: 320px;
+}
+
+main img  {
+  width: 100px;
+  }
+  
+
